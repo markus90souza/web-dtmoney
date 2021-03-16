@@ -1,5 +1,9 @@
+import { Header } from "./Components/Header"
+
 export const App = () => {
   return (
-    <h1>Helooo</h1>
+   <>
+    <Header />
+   </>
   );
 }
